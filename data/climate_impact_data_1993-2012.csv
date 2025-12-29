@@ -1,0 +1,11 @@
+Country,Year,EventType,Deaths,EconomicLoss_USD_Millions
+Philippines,2012,Typhoon,1906,1267.5
+Haiti,2010,Earthquake,222570,7800.0
+Pakistan,2010,Floods,1985,9500.0
+Guatemala,2005,Hurricane,1034,750.2
+Bangladesh,2007,Cyclone,4234,2300.0
+Myanmar,2008,Cyclone Nargis,138366,4000.0
+United States,2005,Hurricane Katrina,1836,125000.0
+China,2008,Earthquake,87476,85000.0
+India,1999,Cyclone,9883,2500.0
+Thailand,2011,Floods,815,45000.0
